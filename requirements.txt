@@ -1,3 +1,5 @@
 dash
 dash_html_components
 gunicorn
+plotly
+pandas
