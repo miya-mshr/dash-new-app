@@ -1,7 +1,7 @@
 from dash import Dash, dcc, html, Input, Output
 import os
 import plotly.express as px
-
+import dash_core_component as dcc
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 core_style = {"width": "80%", "margin": "5% auto"}
